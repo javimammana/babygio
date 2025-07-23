@@ -1,2 +1,0 @@
-# camigabi
-# babygio
