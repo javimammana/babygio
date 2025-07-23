@@ -17,14 +17,6 @@
     --colorGrisOscuro: #0e5277;
 }
 
-.boy {
-    color:#4a9fd3
-}
-
-.girl {
-    color:#da79ae
-}
-
 .line {
     background-color: var(--colorPrimario);
     height: 2px;
@@ -73,7 +65,7 @@
 }
 
 .txtPrincipal {
-    font-size: 350%;
+    font-size: 300%;
 }
 
 .texShadonwNegro {
